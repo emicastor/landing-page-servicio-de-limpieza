@@ -1,0 +1,26 @@
+.gradientt {
+    background: #0276b5;
+    background: linear-gradient(135deg, #0276b5 0%, #38bbf8 100%);
+}
+
+.ls {
+    letter-spacing: -.025em;
+}
+
+.bd-mode-toggle {
+    z-index: 1500;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }

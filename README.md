@@ -1,5 +1,3 @@
-# landing-page-servicio-de-limpieza
-
 # Soto y Ochoa - Servicio de limpieza profesional
 ### Landing page para servicio de limpieza 🧹🧼 
 #### [Ver sitio web]() ↗️
